@@ -1,4 +1,5 @@
 $(function () {
+    window.location.href = './student.html'
     //**************************登录界面操作*************************************
     let $login = $('#login')
     let $register = $('#register')
